@@ -37,4 +37,4 @@ QuoteSite/
    ```  
 3. **Open `index.html` in your browser**  
 
-![image](https://github.com/user-attachments/assets/374b4fd1-df14-470a-b23e-a14f64b68d2d)
+![image](https://github.com/user-attachments/assets/5313e615-9da8-424b-8c60-f487ca49d8a1)
